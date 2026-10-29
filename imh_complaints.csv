@@ -1,0 +1,41 @@
+ticket_id,department,complaint_text,gold_entities
+IMH-001,Electricity,"Bijli nahi aa rahi Sector G-9 Islamabad mein last 8 hours se. IESCO helpline does not pick the call.",Sector G-9|LOC; Islamabad|LOC; IESCO|ORG
+IMH-002,Water,"No water in Street 7 F-11 since Monday. CDA tanker never comes to our block.",Street 7|LOC; F-11|LOC; Monday|DATE; CDA|ORG
+IMH-003,Sanitation,"Garbage has not been collected from I-8 Markaz for four days. The smell is unbearable near the CDA office.",I-8 Markaz|LOC; CDA|ORG
+IMH-004,Electricity,"The residents of G-9 submitted a complaint about the transformer.",G-9|LOC
+IMH-005,Traffic,"Illegal parking in front of Centaurus Mall is blocking the whole lane every evening.",Centaurus Mall|LOC
+IMH-006,Health,"PIMS emergency waiting time was more than 4 hours yesterday. A patient from Rawalpindi collapsed in the corridor.",PIMS|ORG; Rawalpindi|LOC
+IMH-007,Water,"Pipe burst on Khayaban-e-Iqbal near Melody Food Park. Water is wasting since 6am.",Khayaban-e-Iqbal|LOC; Melody Food Park|LOC
+IMH-008,Electricity,"Meter reader from IESCO overcharged our house in G-10/3. Bill is 45000 which is impossible.",IESCO|ORG; G-10/3|LOC
+IMH-009,Sanitation,"Sewerage overflow outside Faisal Mosque parking. Children from nearby school are falling sick.",Faisal Mosque|LOC
+IMH-010,Other,"Please tell me how to apply for a new commercial signboard license in Blue Area.",Blue Area|LOC
+IMH-011,Water,"CDA water tanker did not reach Street 12 yesterday.",CDA|ORG; Street 12|LOC
+IMH-012,Traffic,"Signal at Faisal Avenue and Jinnah Avenue is not working. Traffic police are absent.",Faisal Avenue|LOC; Jinnah Avenue|LOC
+IMH-013,Health,"Polyclinic hospital pharmacy had no medicine for dengue patients today. Staff of Ministry of Health did not respond.",Polyclinic|ORG; Ministry of Health|ORG
+IMH-014,Electricity,"Transformer blast in Bari Imam last night. Whole village is in dark. Please send IESCO team.",Bari Imam|LOC; IESCO|ORG
+IMH-015,Sanitation,"Kachra wala nahi aaya G-6 mein 1 week se. Cats have torn the bags on the footpath.",G-6|LOC
+IMH-016,Water,"Drinking water from the CDA filtration plant in F-8 is muddy. My child Ali had stomach pain.",CDA|ORG; F-8|LOC; Ali|PER
+IMH-017,Traffic,"Road blockage on Kashmir Highway due to a broken trailer. No diversion board.",Kashmir Highway|LOC
+IMH-018,Sanitation,"Someone dumped medical waste behind PIMS hostel.",PIMS|ORG
+IMH-019,Electricity,"Load shedding in Tarnol is 12 hours daily. IESCO says rural feeder but we pay urban tariff.",Tarnol|LOC; IESCO|ORG
+IMH-020,Health,"Lady doctor at BHU Koral was on leave and no replacement came. Women from nearby villages waited till noon.",BHU Koral|ORG
+IMH-021,Other,"I want to thank the sanitation crew of Sector E-11. They cleaned the nullah before Eid.",E-11|LOC; Eid|DATE
+IMH-022,Water,"No pressure in overhead tank of Street 22 G-13. CDA line is leaking in front of Masjid-e-Aqsa.",Street 22|LOC; G-13|LOC; CDA|ORG; Masjid-e-Aqsa|LOC
+IMH-023,Traffic,"Double parking by diplomatic cars near the embassy in Diplomatic Enclave. Local vans cannot pass.",Diplomatic Enclave|LOC
+IMH-024,Electricity,"Sparking wires over the playground in I-9. A child almost got injured. IESCO please inspect today.",I-9|LOC; IESCO|ORG
+IMH-025,Sanitation,"Open manhole on Service Road South near Karachi Company. Two motorbikes fell yesterday.",Service Road South|LOC; Karachi Company|LOC
+IMH-026,Health,"Dengue spray was not done in Ali Pur this month. Last year we had 9 cases.",Ali Pur|LOC
+IMH-027,Traffic,"Traffic police blocked the I-8 underpass during peak hours.",I-8|LOC
+IMH-028,Water,"Hand pump in katchi abadi near Golra Sharif is dry. Women walk 2 km for water.",Golra Sharif|LOC
+IMH-029,Electricity,"New connection requested 3 months ago by Mr Ahmed Khan of House 14 Street 9 G-11. IESCO file is lost.",Ahmed Khan|PER; House 14|LOC; Street 9|LOC; G-11|LOC; IESCO|ORG
+IMH-030,Other,"When will the metro bus start operating till Peshawar Morr again? Schedule is not online.",Peshawar Morr|LOC
+IMH-031,Sanitation,"Dead animal on the road in Bari Imam bazaar for two days. Health risk for the shrine visitors.",Bari Imam|LOC
+IMH-032,Health,"FGSH hospital discharge papers of Ms Sara Bibi were mixed with another patient.",FGSH|ORG; Sara Bibi|PER
+IMH-033,Electricity,"IESCO staff replaced the meter but billing is still wrong.",IESCO|ORG
+IMH-034,Water,"Filtration plant of CDA at F-10 Markaz is closed every Friday without notice.",CDA|ORG; F-10 Markaz|LOC; Friday|DATE
+IMH-035,Traffic,"School vans of Headstart are parking on the zebra crossing in F-7.",Headstart|ORG; F-7|LOC
+IMH-036,Sanitation,"Nullah in I-10 is choked with plastic. After rain the water entered shops of Mr Naveed.",I-10|LOC; Naveed|PER
+IMH-037,Electricity,"Voltage fluctuation damaged the fridge of a clinic in Kahuta Road. Who will compensate?",Kahuta Road|LOC
+IMH-038,Health,"Ambulance from 1122 took 40 minutes to reach Bhara Kahu. The operator said no vehicle was free.",1122|ORG; Bhara Kahu|LOC
+IMH-039,Water,"WASA-style billing error: we are in Islamabad but received a Rawalpindi water bill at House 5 Street 3 E-7.",Islamabad|LOC; Rawalpindi|LOC; House 5|LOC; Street 3|LOC; E-7|LOC
+IMH-040,Other,"Can IMH share the WhatsApp number of the Director Sanitation? Our union council chairman Mr Bilal wants a meeting.",Bilal|PER
